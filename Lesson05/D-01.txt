@@ -1,0 +1,7 @@
+1. setup feathers project:
+    - mkdir folderName
+    - cd into folderName
+    - feathers generate app (say yes to all)
+
+2. generate service
+    - feathers generate service (call it messages)
