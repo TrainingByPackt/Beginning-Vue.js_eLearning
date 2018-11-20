@@ -1,0 +1,69 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js run build
+
+PATH: 
+  ~/mongodb-osx-x86_64-enterprise-3.6.4/bin:/Users/garyjennings/.cargo/bin:/Users/garyjennings/Library/Android/sdk/platform-tools:/Users/garyjennings/Library/Android/sdk/tools:/Users/garyjennings/Library/Android/sdk/platform-tools:/Users/garyjennings/Library/Android/sdk/tools:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Users/garyjennings/.local/bin:/Applications/MAMP/bin/php/php5.5.10/bin:/Users/garyjennings/.rbenv/shims:/Users/garyjennings/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/garyjennings/.composer/vendor/bin:vendor/bin:/Users/garyjennings/.composer/vendor/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.12.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "fromscratch",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "main": "dist/my-component.umd.js",
+    "module": "dist/my-component.esm.js",
+    "unpkg": "dist/my-component.min.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "npx webpack-dev-server --hot --open",
+      "build": "./node_modules/.bin/vue-cli-service build --target lib --name myLib ./src/components/Counter.vue"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "css-loader": "^1.0.1",
+      "eslint": "^5.9.0",
+      "eslint-loader": "^2.1.1",
+      "eslint-plugin-vue": "^4.7.1",
+      "vue-loader": "^15.4.2",
+      "vue-template-compiler": "^2.5.17",
+      "webpack": "^4.25.1",
+      "webpack-cli": "^3.1.2",
+      "webpack-dev-server": "^3.1.10"
+    },
+    "dependencies": {
+      "vue": "^2.5.17"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Command failed.
+  Exit code: 127
+  Command: sh
+  Arguments: -c ./node_modules/.bin/vue-cli-service build --target lib --name myLib ./src/components/Counter.vue
+  Directory: /Users/garyjennings/Desktop/Packt/packt-course/videos/Lesson08/working/fromscratch
+  Output:
+  
+      at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
+      at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
+      at emitTwo (events.js:126:13)
+      at ChildProcess.emit (events.js:214:7)
+      at maybeClose (internal/child_process.js:915:16)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
