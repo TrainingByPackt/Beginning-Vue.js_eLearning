@@ -1,0 +1,26 @@
+HTML
+-------------------------------
+<div id=”app”>
+    <h1>Welcome</h1>
+    <p>{{greeting}}</p>
+</div>
+
+
+JS
+-------------------------------
+new Vue({
+    el: ‘#app’,
+    data: {
+        greeting: ‘Hello World!’
+    }
+})
+
+
+
+JASMINE
+-------------------------------
+describe(‘my app’, () => {
+    it(‘should say Hello World’, () => {
+        expect(document.querySelector(‘p’).innerText).toContain(‘Hello World’)
+    })
+})
