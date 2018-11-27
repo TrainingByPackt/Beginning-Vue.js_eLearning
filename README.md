@@ -1,11 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Vue.js [elearning].svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/issues)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Vue.js_elearning.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Vue.js_elearning.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Vue.js_elearning.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/pulls)
 
 
 
-# Beginning-Vue.js_elearning
+# Beginning-Vue.js [eLearning]
 Developers can do wonders with Vue.js — an ecosystem that scales between a library and a full-featured framework. Beginning Vue.js teaches all that you need to know about Vue.js to create modern interactive web applications.
 It starts with the basics, such as lists and filters, and then progresses to advanced features such as using Jasmine for testing Vue.js and creating universal applications with Electron. By the end of the course, you will also know how to integrate the Vue.js framework with others.
 
