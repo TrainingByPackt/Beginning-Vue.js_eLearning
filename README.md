@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Vue.js_elearning.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Vue.js_elearning.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Vue.js_elearning.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js_elearning/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Vue.js[elearning].svg)](https://github.com/TrainingByPackt/Beginning-Vue.js[elearning]/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Vue.js[elearning].svg)](https://github.com/TrainingByPackt/Beginning-Vue.js[elearning]/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Vue.js[elearning].svg)](https://github.com/TrainingByPackt/Beginning-Vue.js[elearning]/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Vue.js[elearning]/pulls)
 
 
 
